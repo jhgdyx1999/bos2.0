@@ -1,2 +1,2 @@
-# hello-world
+# bos2.0
 extra docs
